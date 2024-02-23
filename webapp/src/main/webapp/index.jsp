@@ -9,6 +9,10 @@
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
+    < label for="brother"><b>Brotherl</b></label>
+    <input type="text" placeholder="Enter Brother" name="brother" id="brother" required>
+    <br
+
     <label for="surname"><b>Email</b></label>
     <input type="text" placeholder="Enter Surname" name="surname" id="surname" required>
     <br>
