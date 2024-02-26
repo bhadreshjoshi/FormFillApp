@@ -17,10 +17,13 @@
     <input type="text" placeholder="Enter Surname" name="surname" id="surname" required>
     <br>
 
-    < label for="sister"><b>Sister</b></label>
+     label for="son"><b>Son</b></label>
     <input type="text" placeholder="Enter Sister" name="sister" id="sister" required>
-    <br
 
+
+    <b< label for="son"><b>Son</b></label>
+    <input type="text" placeholder="Enter Son" name="son" id="son" required>
+    <br
 
 
     <label for="name"><b>Name</b></label>
